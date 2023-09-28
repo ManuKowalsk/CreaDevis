@@ -11,3 +11,4 @@ Parfois il faut cliquer deux fois sur entrée pour revenir à l'accueil.
 -J'ai laisser certaines field non final car un axe d'améliorations serait l'implementation de modifications des devis non signée.
 - Une interface Graphique
 - Export vers pdf des factures et devis.
+- Résoudre beug des deux clic entree pour revenir à l'accueil
